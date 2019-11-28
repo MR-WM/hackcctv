@@ -1,0 +1,16 @@
+       hack cctv
+1.buka termux nya dulu:v
+2.ngopi
+3.masukin comand nya:
+1.$ apt update && apt upgrade
+2.$ pkg install python2
+3.$ pip2 install requests
+4.$ pkg install git
+5.$ git clone https://github.com/kancotdiq/ipcs
+6.$ cd ipcs
+7.$ python2 scan.py
+
+
+kalau sudah tinggal pilih negara nya trus pilih page nya (bebas) dan salin ip nya 
+
+lanjut di apk puffin tempel ip nya dan cari 
